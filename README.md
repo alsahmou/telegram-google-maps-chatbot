@@ -21,8 +21,8 @@ This Telegram Bot API helps users with finding the closest location of a specifi
 ```
 {
     "auth": {
-        "Google_API_Key": "AIzaSyAMp0_hihUrY3SGqYYahMv56E3EvzrjAT0", 
-        "Bot_Token": "739707484:AAEme6P0J6aRkBDJeNNfOR_grzeVvmA5in8"
+        "Google_API_Key": "##########", 
+        "Bot_Token": "##########"
     }
 }
 ```

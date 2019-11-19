@@ -4,7 +4,7 @@
 
 This Telegram Bot API helps users with finding the closest location of a specific type of locations (for example, restaurants, gas stations, pharmacoes, etc...) that the user inputs to the bot. The bot currently only operates on Telegram Mobile as location services are currently not available for Telegram Desktop. After the user visits the location, the user can input their personal rating of the location so that next time they are searching for a location they receive a personalized result, taking into account their rating in the proximitiy of such location, this is done using the following equation in the background (Distance x Rating/5).  
 
-![screenshot](https://i.imgur.com/RlwcV0O.jpg)
+![screenshot](https://i.imgur.com/RlwcV0O.jpg =100x20)
 
 # Setup
 
